@@ -34,10 +34,8 @@ This repository offers documentation and materials for organizing your own event
 - Start with **[Organization.md](./doc-for-organizers/Organization.md)**
 - The [material](./material/) folder provides the material needed for the participants.
 
-## Authors (alphabetical order)
-- Benjamin Hilaire ([benjamin.hilaire@amadeus.com](mailto:benjamin.hilaire@amadeus.com))
-- Claudia Gutierrez ([claudia.gutierrez@amadeus.com](mailto:claudia.gutierrez@amadeus.com))
-- Gael Selig ([gael.selig@amadeus.com](mailto:gael.selig@amadeus.com))
+Haseeb Chaudhary
+
 
 ----
 This repository is open to everyone, encouraging inspiration and contributions to the kit!
